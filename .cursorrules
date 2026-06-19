@@ -1,0 +1,7 @@
+- You are an expert engineer working on a FastAPI and Vanilla JS AI Study Assistant.
+- Avoid using em dashes in any text, code comments, or user interfaces.
+- The backend must enforce a strict JSON output schema from the Gemini API containing three keys: 'summary', 'flashcards', and 'quizzes'.
+- All endpoints must be asynchronous (`async def`) and leverage FastAPI's native error handling.
+- The frontend must process data entirely locally without a database, holding state in memory.
+- Flashcards require a clean 3D flipping mechanic using CSS transform rules.
+- Quizzes must display one question at a time, tracking scores dynamically in JavaScript state.
