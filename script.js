@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000/api/generate";
+const API_URL = "/api/generate-multimodal";
 const API_URL_MULTIMODAL = "http://127.0.0.1:8000/api/generate-multimodal";
 const SRS_KEY = "srs_flashcard_data";
 const GAMIFICATION_KEY = "study_gamification";
